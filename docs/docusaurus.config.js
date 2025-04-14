@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'textpattern-docs-test.readthedocs.io',
+  url: 'https://textpattern-docs-test.readthedocs.io',
   baseUrl: '/en/latest/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
