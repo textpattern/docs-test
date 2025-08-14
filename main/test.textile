@@ -18,7 +18,7 @@ _Maecenas vitae pulvinar mauris. Sed vitae vulputate velit, eget mollis mauris. 
 
 h2. Strikethrough Text
 
---Mauris a euismod nunc, eu egestas odio. Ut in ante dolor. Mauris tristique ultricies diam, at pretium mi euismod consequat. Nulla mattis risus nec dui tincidunt vulputate. Nullam cursus sagittis mauris.--
+-Mauris a euismod nunc, eu egestas odio. Ut in ante dolor. Mauris tristique ultricies diam, at pretium mi euismod consequat. Nulla mattis risus nec dui tincidunt vulputate. Nullam cursus sagittis mauris.-
 
 h2. Plain Text
 
